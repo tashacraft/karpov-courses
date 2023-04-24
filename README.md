@@ -7,19 +7,19 @@
 <td>№</td>
 <td><Название/td>
 <td>Тема/td>
-<<td>Навыки</td>
+<td>Навыки</td>
 </th>
 <tr>
 <td>1</td>
 <td>Заказ такси в Нью-Йорке</td>
 <td>Отработка навыков работы с библиотекой pandas</td>
-<<td>Python, Pandas</td>
+<td>Python, Pandas</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Бронирование отелей</td>
 <td>Работа с инструментами pandas, решение аналитических задач</td>
-<<td>Python, Pandas</td>
+<td>Python, Pandas</td>
 </tr>
 </table>
 
