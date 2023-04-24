@@ -1,7 +1,7 @@
 # Проекты в Karpov.Courses
 
-Я начала обучение на аналитика данных. Здесь будут все мои проекты в ходе обучения.
-Портфолио по Data science в другом <a href="https://github.com/tashacraft/yandex-practicum" target=_blank>репозитории</a>
+Я начала обучение на аналитика данных. Здесь будут все мои проекты в ходе обучения.<br/>
+Портфолио по Data science в другом <a href="https://github.com/tashacraft/yandex-practicum" target=_blank>репозитории</a>.
 
 <table>
 <tr>
