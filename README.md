@@ -14,7 +14,7 @@
 <td>1</td>
 <td>Логи пользователей</td>
 <td>Работа с библиотекой Seaborn и Matplotlib, решение аналитических задач</td>
-<td>Python, Pandas, Seaborn, Matplotlibv</td>
+<td>Python, Pandas, Seaborn, Matplotlib</td>
 </tr>
 <tr>
 <td>2</td>
