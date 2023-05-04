@@ -12,14 +12,20 @@
 </tr>
 <tr>
 <td>1</td>
-<td>Заказ такси в Нью-Йорке</td>
-<td>Отработка навыков работы с библиотекой pandas</td>
-<td>Python, Pandas</td>
+<td>Логи пользователей</td>
+<td>Работа с библиотекой Seaborn и Matplotlib, решение аналитических задач</td>
+<td>Python, Pandas, Seaborn, Matplotlibv</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Бронирование отелей</td>
 <td>Работа с инструментами pandas, решение аналитических задач</td>
+<td>Python, Pandas</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Заказ такси в Нью-Йорке</td>
+<td>Отработка навыков работы с библиотекой pandas</td>
 <td>Python, Pandas</td>
 </tr>
 </table>
