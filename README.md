@@ -19,7 +19,7 @@
 <td>2</td>
 <td><a href="https://github.com/tashacraft/karpov-courses/tree/main/%D0%92%D0%B5%D0%BB%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82">Велопрокат</a></td>
 <td>Изучение динамики аренды со скользящим средним, определение доверительного интервала, исследование аномалий</td>
-<td>Python, Pandas, Numpy, Matplotlib</td>
+<td>Python, Pandas, Numpy, Matplotlib, Seaborn</td>
 </tr>
 <tr>
 <td>3</td>
