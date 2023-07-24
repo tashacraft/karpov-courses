@@ -10,11 +10,9 @@
 ## Используемые библиотеки
 - pandas
 - matplotlib
-- numpy
 - scipy
 - seaborn
 - stats
-- scipy
 - pingouin
 
 ## Результаты
