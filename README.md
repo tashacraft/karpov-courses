@@ -1,4 +1,4 @@
-# Мои проекты Аналитика данных
+# Мои проекты по Аналитике данных
 
 Портфолио по Data science в другом <a href="https://github.com/tashacraft/yandex-practicum" target="_blank">репозитории</a>.
 
