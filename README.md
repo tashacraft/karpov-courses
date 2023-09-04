@@ -1,6 +1,5 @@
-# Проекты в Karpov.Courses
+# Мои проекты Аналитика данных
 
-Мои проекты в ходе обучения на Аналитика данных.<br/>
 Портфолио по Data science в другом <a href="https://github.com/tashacraft/yandex-practicum" target="_blank">репозитории</a>.
 
 <table>
